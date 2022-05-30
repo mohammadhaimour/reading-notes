@@ -208,4 +208,73 @@ MongoClient.connect('mongodb://localhost:27017/animals', function(err, client){
 });
  ```
  ---
+
+ ## NPM:
+
+ 1-  Is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+ 2- npm consists of three distinct components:
+ 
+ - the website.
+- the Command Line Interface (CLI).
+- the registry .
+
+3- Use npm to:
+
+- Adapt packages of code for your apps, or incorporate packages as they are.
+- Download standalone tools you can use right away.
+- Run packages without downloading using npx.
+Share code with any npm user, anywhere.
+- Restrict code to specific developers.
+- Create organizations to coordinate package maintenance, coding, and developers.
+- Form virtual teams by using organizations.
+- Manage multiple versions of code and code dependencies.
+- Update applications easily when underlying code is updated.
+- Discover multiple ways to solve the same puzzle.
+- Find other developers who are working on similar problems and projects.
+---
+## TDD:
+
+1 -“Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
+
+2- It can be succinctly described by the following set of rules:
+
+ - write a “single” unit test describing an aspect of the program
+ - run the test, which should fail because the program lacks that feature .
+- write “just enough” code, the simplest possible, to make the test pass .
+- “refactor” the code until it conforms to the simplicity criteria .
+- repeat, “accumulating” unit tests over time .
+
+3- Expected Benefits:
+- many teams report significant reductions in defect rates, at the cost of a moderate increase in initial development effort
+- the same teams tend to report that these overheads are more than offset by a reduction in effort in projects’ final phases
+- although empirical research has so far failed to confirm this, veteran practitioners report that TDD leads to improved design qualities in the code, and more generally a higher degree of “internal” or technical quality, for instance improving the metrics of cohesion and coupling
+
+4-Common Pitfalls:
+
+Typical individual mistakes include:
+
+- forgetting to run tests frequently
+- writing too many tests at once
+- writing tests that are too large or coarse-grained
+- writing overly trivial tests, for instance omitting assertions
+writing tests for trivial code, for instance accessors 
+
+Typical team pitfalls include:
+
+- partial adoption – only a few developers on the team use TDD
+- poor maintenance of the test suite – most commonly leading to a test suite with a prohibitively long running time
+- abandoned test suite (i.e. seldom or never run) – sometimes as a result of poor maintenance, sometimes as a result of team turnover.
+---
+## CI / CD :
+##### CI/CD is a method to frequently deliver apps to customers by introducing automation into the stages of app development. The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. CI/CD is a solution to the problems integrating new code can cause for development and operations teams (AKA "integration hell").
+
+- Continuous integration CI :
+In modern application development, the goal is to have multiple developers working simultaneously on different features of the same app. However, if an organization is set up to merge all branching source code together on one day (known as “merge day”), the resulting work can be tedious, manual, and time-intensive. That’s because when a developer working in isolation makes a change to an application, there’s a chance it will conflict with different changes being simultaneously made by other developers. This problem can be further compounded if each developer has customized their own local integrated development environment (IDE), rather than the team agreeing on one cloud-based IDE.
+
+- Continuous delivery CD: 
+Following the automation of builds and unit and integration testing in CI, continuous delivery automates the release of that validated code to a repository. So, in order to have an effective continuous delivery process, it’s important that CI is already built into your development pipeline. The goal of continuous delivery is to have a codebase that is always ready for deployment to a production environment.
+In continuous delivery, every stage—from the merger of code changes to the delivery of production-ready builds—involves test automation and code release automation. At the end of that process, the operations team is able to deploy an app to production quickly and easily.
+
+
  
