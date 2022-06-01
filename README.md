@@ -1,4 +1,7 @@
 # reading-notes
+---
+#### It is my repository  to add my notes and my diary in the Course
+# Code 401 - Advanced Software Development
 
 [Task SQL Practice ](sql.md)
 </br>
