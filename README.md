@@ -25,5 +25,9 @@
 </br>
 
 
+[sequelize-normalization](/sequelize.md)
+</br>
+
+
 
 
