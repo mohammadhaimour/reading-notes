@@ -28,6 +28,9 @@
 [sequelize-normalization](/sequelize.md)
 </br>
 
+[Authentication](/authentication.md)
+</br>
+
 
 
 
