@@ -63,6 +63,9 @@
 [ AWS: S3 and Lambda ](/reading16.md )
 </br>
 
+[ Readings: AWS: Events ](/read18.md )
+</br>
+
 
 
 
