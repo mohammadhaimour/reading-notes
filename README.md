@@ -75,6 +75,9 @@
 [ Hook : ](/Hook.md )
 </br>
 
+[ Using the Effect Hook : ](/read28.md )
+</br>
+
 
 
 
