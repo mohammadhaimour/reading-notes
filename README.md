@@ -78,6 +78,9 @@
 [ Using the Effect Hook : ](/read28.md )
 </br>
 
+[ Use Reducer Hook ](/useReducerHook.md )
+</br>
+
 
 
 
