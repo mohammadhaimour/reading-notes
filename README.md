@@ -81,6 +81,9 @@
 [ Use Reducer Hook ](/useReducerHook.md )
 </br>
 
+[ Hash Tables ](/Hashtables.md )
+</br>
+
 
 
 
