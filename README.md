@@ -84,6 +84,11 @@
 [ Hash Tables ](/Hashtables.md )
 </br>
 
+[ Reading 33: `<Login />` and `<Auth />` ](/read33.md)
+</br>
+
+[ Reading 34: API Integration ](/read34.md)
+</br>
 
 
 
