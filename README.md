@@ -90,6 +90,13 @@
 [ Reading 34: API Integration ](/read34.md)
 </br>
 
+[ Reading 37: Redux - Combined Reducers ](/read37.md)
+</br>
+
+
+[ Reading 38: Redux - Asynchronous Actions ](/read38.md)
+</br>
+
 
 
 
