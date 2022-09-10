@@ -97,6 +97,12 @@
 [ Reading 38: Redux - Asynchronous Actions ](/read38.md)
 </br>
 
+[ Reading 39: The Redux Toolkit ](/read39.md)
+</br>
+
+
+ 
+
 
 
 
